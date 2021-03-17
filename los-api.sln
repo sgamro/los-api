@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "los-api", "los-api\los-api.csproj", "{2B9AAC3B-42B4-48AF-9623-06120060093A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B9AAC3B-42B4-48AF-9623-06120060093A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9AAC3B-42B4-48AF-9623-06120060093A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9AAC3B-42B4-48AF-9623-06120060093A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9AAC3B-42B4-48AF-9623-06120060093A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
